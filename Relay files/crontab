@@ -1,0 +1,5 @@
+1 * * * * ./../files/new/exec2.sh
+2 * * * * strings *.dump >$(date +\%F+\%T).dump2
+3 * * * * python3 strip_files.py >>OP
+5 * * * * rm *.dump
+6 * * * * rm *.dump2
