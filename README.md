@@ -1,6 +1,6 @@
 # TorRotation2020
-A repository for all files used during the rotation project with Prof. Roch Guerin, department of Computer Science, Washington University in St Louis
-Author: Ashwin Kumar. PhD student, Department of Computer Science, Washington University in St Louis
+A repository for all files used during the rotation project with Prof. Roch Guerin, department of Computer Science, Washington University in St Louis  
+Author: Ashwin Kumar. PhD student, Department of Computer Science, Washington University in St Louis  
 Contact: ashwinkumar@wustl.edu
 Usage:
 1. Set up a relay with the given files.
